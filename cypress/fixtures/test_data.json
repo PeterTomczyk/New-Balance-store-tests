@@ -1,0 +1,9 @@
+{
+    "EmailAddress": "ppython.ttester@gmail.com",
+    "CorrectPassword": "Pythontester1*",
+    "IncorrectPassword": "Pythontester1**",
+    "CheckIncorrectAssertionCreation": "Istnieje już konto na podany adres email. Prosimy użyć mechanizmu przypomnienia hasła",
+    "CheckCorrectAssertionCreation": "Dziękujemy za rejestrację",
+    "CheckingFailedLoggingAssertion": "Nieprawidłowy login lub hasło.",
+    "CheckingSuccessfulLoggingAssertion": "Wyloguj się"
+}
